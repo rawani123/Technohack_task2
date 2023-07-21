@@ -1,7 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Lugrasimo&display=swap');
+
+
 *{
     padding: 0px;
     margin: 0px;
-    font-family: sans-serif;
+    font-family:  'Lugrasimo', cursive;
     color: white;
 }
 
@@ -134,16 +137,21 @@ i.r:hover{
     margin-bottom: 30px;
     border-radius: 10px;
 }
+
+.left_div{
+    padding: 10px;
+}
+
 .inner_proj{
     margin-left: 50px;
-    font-size: 30px;
+    font-size: 25px;
     margin-bottom: 10px;
-    
 }
 
 .inner_proj2{
+    font-size: 15px;
     margin-left: 20px;
-    margin-right: 20px;
+    margin-right: 20px; 
 }
 .right_div{
     margin-left: 100px;
